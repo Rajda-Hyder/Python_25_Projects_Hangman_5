@@ -1,0 +1,3 @@
+words = ["ability","able","about","above","abroad","absence","absent","absolute","accept","accident","accord","account","accuse","accustom","ache","across","act","action","active","actor","actress","actual","add","address","admire","admission","admit","adopt","adoption","advance","advantage","adventure","advertise","advice","advise","affair","afford","afraid","after","afternoon","again","against","age","agency","agent","ago","agree","agriculture","ahead","aim","air","airplane","alike","alive","all","allow","allowance","almost","alone","along","aloud","already","also","although","altogether","always","ambition","ambitious","among","amongst","amount","amuse","ancient","and","anger","angle","angry","animal"]
+
+  
